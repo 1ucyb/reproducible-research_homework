@@ -36,7 +36,7 @@ I have enabled `renv` in this project so package versions etc are consistent.
 
     d)  Go to your commit history and click on the latest commit. Show the edit you made to the code in the comparison view (add this image to the **README.md** of the fork). (5 points)
 
-        ![](diff.png)
+       ![](diff.png)
 
        *The whole script shows as edited because I made some changes to formatting while trying to work out how the script works. My inserted lines are 6-8.*
     
